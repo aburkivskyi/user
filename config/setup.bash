@@ -1,0 +1,14 @@
+)
+DOROTHY_CONFIG_TESTING=(
+	'dorothy-config-testing-14256'
+	'dorothy-config-testing-9742'
+)
+SETUP_UTILS=(
+	'curl'
+	'nano'
+	'neovim'
+	'ripgrep'
+	'sd'
+	'teip'
+	'vim'
+)
